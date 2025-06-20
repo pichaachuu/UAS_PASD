@@ -1,0 +1,1 @@
+Modifikasi Implementasikan fitur untuk menampilkan banyaknya kendaraan dengan tipe tertentu pada antrian, misal mobil atau motor. Tambahkan menu lihat total kendaraan mobil/ motor pada daftar menu, lalu tampilkan daftar kendaraan dengan tipe tersebut.
